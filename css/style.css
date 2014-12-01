@@ -12,6 +12,9 @@ selector {
 */
 
 /* Type selector */
+h3 {
+	margin: 0 0 10px;
+}
 
 p { /* select all <p> */
 	font-size: 1em; /* 16px(web standard), ?pt, 1em */
